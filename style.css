@@ -1,0 +1,326 @@
+/*index*/
+*{
+    padding: 0;
+    margin: 0;
+    
+    }
+    
+    h1 {
+    
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 20px;
+        
+    
+    }
+
+    
+    nav ul {
+    
+    background-color: #757575;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    
+    }
+    
+    nav li {
+    
+    display: inline-flex;
+    
+    }
+    
+    nav a {
+    
+        text-decoration: none;
+        color: white;
+        padding: 10px;
+        width: 150px;
+    
+    }
+    
+    
+    h2 {
+        text-align: center;
+    background-color: #757575;
+    
+    }
+
+    .parrafo {
+
+
+        text-align: center;
+        background-color: #757575;
+        color: white;
+        
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size:25px;
+        
+
+    }
+
+
+    .parrafo-body {
+    color: black;
+    background-color:antiquewhite;
+    font-size: 20px;
+    }
+    
+    .imagenes {
+    
+    text-align: center;
+    background-color: antiquewhite;
+    
+    
+    }
+    
+    img {
+    
+        width: 465px;
+        height: 241.8px;
+        margin: 0px;
+    
+    }
+    
+    .imagendos {
+    
+    text-align: center;
+    background-color: antiquewhite;
+    
+    }
+
+   
+
+    
+    
+    
+    
+    .paragraph {
+    
+    color: black;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 20px;
+    }
+
+    .section {
+
+        background-color: antiquewhite;
+        text-align: center;
+        font-size: 25px;
+
+    }
+
+    .parrafo-2 {
+
+        background-color: black;
+        color: whitesmoke;
+
+    }
+    
+    .footer {
+        
+    background-color: #757575;
+
+        display: flex;
+        justify-content: space-around
+        
+    }
+
+
+
+    .imgfooter {
+
+        width: auto;
+        height: 35px;
+        margin: 0px;
+
+
+    }
+
+   
+
+
+   /*servicios*/
+
+   .prueba {
+
+    text-align: center;
+    background-color:antiquewhite;
+    font-size: 30px;
+
+ }
+ 
+ .prueba2 {
+
+     background-color: antiquewhite;
+     text-align: center;
+     font-size: 30px;
+
+ }
+
+ .footerserv {
+     background-color: #757575;
+
+ }
+   
+
+   
+
+   
+
+    /* Fin servicios*/
+
+    /* promociones */
+
+    .section-promociones {
+
+        background-color: antiquewhite;
+        color:black;
+        font-size: 20px;
+        display: flex;
+        justify-content: center
+
+    }
+
+    .parrafo-3 {
+
+        display: flex;
+        justify-content: center;
+        background-color: antiquewhite;
+        font-size: 25px;
+        
+
+    }
+
+    .footer-promociones {
+
+        background-color: #757575;
+        color: black;
+        
+    }
+
+    /* Fin de promociones */
+
+    /* Productos*/
+
+    .section-products {
+        background-color: antiquewhite;
+        text-align: center;
+        font-size: 20px;
+
+    }
+
+   .grid-container {
+
+    display: grid;
+    
+    grid-template-rows: 200px 200px 200px
+    
+    border: 1px solid black;
+
+    grid-template-columns: repeat(3, 1fr)
+
+
+   }
+
+   
+
+   .uno {
+
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 4;
+
+   }
+
+   .dos {
+
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 4;
+
+   }
+
+   .tres {
+
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 4;
+
+   }
+
+  
+
+
+
+    .footer-products {
+
+        background-color: #757575;
+
+    }
+    /* Fin de productos */
+
+    /* Nosotros */
+
+    .section1-nosotros {
+
+        text-align: center;
+        background-color: antiquewhite;
+        font-size: 25px;
+
+    }
+
+    .section2-nosotros {
+
+        text-align: center;
+        background-color: antiquewhite;
+        font-size: 25px;
+
+
+    }
+
+    .footer-nosotros {
+
+        background-color: #757575;
+
+    }
+    /* Fin nosotros */
+
+.section-contactos {
+
+    background-color: antiquewhite;
+    font-size: 20px;
+
+}
+
+.footer-contactos {
+
+    background-color: #757575;
+
+}
+
+.enlace {
+
+    color: white;
+
+}
+
+#carouselExampleFade {
+
+    background-color: antiquewhite;
+
+}
+
+
+
+
+
+
+   
+
+    
